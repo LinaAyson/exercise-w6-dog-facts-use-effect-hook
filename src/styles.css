@@ -1,1 +1,8 @@
 /* Start Adding your CSS here */
+body {
+  background-color: whitesmoke;
+  color: darkblue;
+  font-size: 1.5rem;
+  margin: 4rem;
+  font-family: sans-serif;
+}

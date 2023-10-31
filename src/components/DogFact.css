@@ -1,0 +1,33 @@
+.dogfact {
+  background-color: white;
+  border: 1px solid lightgrey;
+  border-radius: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  overflow: hidden; 
+  position: relative; 
+}
+.text-container {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.btn {
+  background-color: lightblue;
+  border: 2px solid lightgrey;
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  color: white;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+.btn:hover {
+  background-color: lightgrey;
+  border:   border: 2px solid lightblue;
+}
